@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "Tool to organize arrays of objects in sub-arrays grouped by value-ranges that is near a central value provided",
   "main": "src/index.js",
+  "bin": {
+    "index.js": "src/index.js"
+  },
   "scripts": {
     "release": "standard-version",
     "publish": "git push --folow-tags origin master",
