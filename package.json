@@ -1,6 +1,6 @@
 {
   "name": "array-groups",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Tool to organize arrays of objects in sub-arrays grouped by value-ranges that is near a central value provided",
   "main": "src/index.js",
   "bin": {
