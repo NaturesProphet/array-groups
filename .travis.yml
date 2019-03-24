@@ -12,5 +12,7 @@ addons:
 script:
 # instalar dependências
 - npm install
+# executar testes unitarios
+- npm run test
 # analisar a qualidade
 - sonar-scanner
