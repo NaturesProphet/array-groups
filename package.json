@@ -1,0 +1,25 @@
+{
+  "name": "array-groups",
+  "version": "0.0.0",
+  "description": "Tool to organize arrays of objects in sub-arrays grouped by value-ranges that is near a central value provided",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaturesProphet/array-groups.git"
+  },
+  "keywords": [
+    "array",
+    "group-by",
+    "array-group",
+    "sub-arrays"
+  ],
+  "author": "Mateus Garcia",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/NaturesProphet/array-groups/issues"
+  },
+  "homepage": "https://github.com/NaturesProphet/array-groups#readme"
+}
