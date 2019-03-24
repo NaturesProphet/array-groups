@@ -5,7 +5,8 @@
 <a href="https://sonarcloud.io/dashboard?id=array-groups" target="blank"><img src="https://sonarcloud.io/images/project_badges/sonarcloud-black.svg" alt="Sonar Cloud" /></a>
 </p>
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=array-groups&metric=alert_status)](https://sonarcloud.io/dashboard?id=array-groups)[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=array-groups&metric=coverage)](https://sonarcloud.io/dashboard?id=array-groups)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=array-groups&metric=alert_status)](https://sonarcloud.io/dashboard?id=array-groups)[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=array-groups&metric=coverage)](https://sonarcloud.io/dashboard?id=array-groups)[![npm](https://img.shields.io/npm/v/array-groups.svg)](https://www.npmjs.com/package/array-groups)[![version@master](https://img.shields.io/github/package-json/v/NaturesProphet/array-groups/master.svg)](https://github.com/NaturesProphet/array-groups/tree/master)
+
 
 # array-groups
 Tool to organize arrays of objects in sub-arrays grouped by value-ranges that is near a central value provided
