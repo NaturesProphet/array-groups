@@ -78,7 +78,7 @@ test( 'groups the array', () => {
 
 test( 'Throws an error if the arrays have different lengths', () => {
     try {
-        let grouped = group.GroupArray( testingArray, [], range );
+        group.GroupArray( testingArray, [], range );
     } catch ( error ) {
         expect( error.message ).toBe( "The arrays provided have differente lengths. check them and try again" );
     }
